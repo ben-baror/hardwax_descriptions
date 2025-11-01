@@ -1,4 +1,4 @@
-# Hardwax Record Descriptions Analysis 🎵📊
+# Music descriptions analysis - Hardwax 🎵📊
 
 **tl;dr:** Scraped and analyzed **25K+ records** from Hardwax to explore the language of electronic music descriptions, and trends. This project demonstrates a full end-to-end workflow: **scraping, processing, cleaning, analyzing, visualizing, and designing** the final charts.
 
@@ -41,5 +41,6 @@ Check out the Jupyter Notebook for full workflow and insights:
 - Text cleaning and NLP preprocessing with **Pandas**, **spaCy**, and **Textacy**.  
 - End-to-end **data pipeline from raw web data to polished visualization**.  
 - Combining Python visualizations with manual design enhancements in **Inkscape**.  
+
 
 
