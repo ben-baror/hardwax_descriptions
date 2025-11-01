@@ -12,7 +12,7 @@
 ## 🛠 End-to-End Workflow
 
 ### Data extraction / scraping
-- Identified Hardwax’s **backend API endpoints** to handle lazy-loaded content.  
+- Identified Hardwax’s **backend API endpoints** to handle lazy-loaded content of 25K+ products.  
 - Iterated over JSON responses to collect all record IDs (slugs).  
 - Queried each slug to fetch a JSON containing the HTML content for the record.  
 - Parsed the HTML to extract full record descriptions.  
@@ -41,4 +41,5 @@ Check out the Jupyter Notebook for full workflow and insights:
 - Text cleaning and NLP preprocessing with **Pandas**, **spaCy**, and **Textacy**.  
 - End-to-end **data pipeline from raw web data to polished visualization**.  
 - Combining Python visualizations with manual design enhancements in **Inkscape**.  
+
 
