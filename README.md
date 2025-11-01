@@ -6,7 +6,6 @@
 
 ## 📊 Visualisations
 
-*(Replace with your final PNG export)*
 ![hardwax_wordcloud](viz/hard_wax.png)
 ---
 
@@ -42,3 +41,4 @@ Check out the Jupyter Notebook for full workflow and insights:
 - Text cleaning and NLP preprocessing with **Pandas**, **spaCy**, and **Textacy**.  
 - End-to-end **data pipeline from raw web data to polished visualization**.  
 - Combining Python visualizations with manual design enhancements in **Inkscape**.  
+
